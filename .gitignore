@@ -1,1 +1,3 @@
 adVenv/
+*data*
+*test*
